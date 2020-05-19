@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/matt8poi/testExpress/issues"
   },
-  "homepage": "https://github.com/matt8poi/testExpress#readme"
+  "homepage": "https://github.com/matt8poi/testExpress#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
